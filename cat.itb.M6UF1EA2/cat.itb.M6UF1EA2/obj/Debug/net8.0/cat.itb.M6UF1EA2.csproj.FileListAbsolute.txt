@@ -1,0 +1,17 @@
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\bin\Debug\net8.0\cat.itb.M6UF1EA2.exe
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\bin\Debug\net8.0\cat.itb.M6UF1EA2.deps.json
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\bin\Debug\net8.0\cat.itb.M6UF1EA2.runtimeconfig.json
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\bin\Debug\net8.0\cat.itb.M6UF1EA2.dll
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\bin\Debug\net8.0\cat.itb.M6UF1EA2.pdb
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\cat.itb.M6UF1EA2.csproj.AssemblyReference.cache
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\cat.itb.M6UF1EA2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\cat.itb.M6UF1EA2.AssemblyInfoInputs.cache
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\cat.itb.M6UF1EA2.AssemblyInfo.cs
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\cat.itb.M6UF1EA2.csproj.CoreCompileInputs.cache
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\cat.itb.M6UF1EA2.csproj.CopyComplete
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\cat.itb.M6UF1EA2.dll
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\refint\cat.itb.M6UF1EA2.dll
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\cat.itb.M6UF1EA2.pdb
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\cat.itb.M6UF1EA2.genruntimeconfig.cache
+D:\C#\cat.itb.M6UF1EA2\cat.itb.M6UF1EA2\obj\Debug\net8.0\ref\cat.itb.M6UF1EA2.dll

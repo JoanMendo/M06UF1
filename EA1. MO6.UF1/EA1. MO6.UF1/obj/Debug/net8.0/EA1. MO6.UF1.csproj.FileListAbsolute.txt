@@ -1,0 +1,17 @@
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\bin\Debug\net8.0\EA1. MO6.UF1.exe
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\bin\Debug\net8.0\EA1. MO6.UF1.deps.json
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\bin\Debug\net8.0\EA1. MO6.UF1.runtimeconfig.json
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\bin\Debug\net8.0\EA1. MO6.UF1.dll
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\bin\Debug\net8.0\EA1. MO6.UF1.pdb
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\EA1. MO6.UF1.csproj.AssemblyReference.cache
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\EA1. MO6.UF1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\EA1. MO6.UF1.AssemblyInfoInputs.cache
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\EA1. MO6.UF1.AssemblyInfo.cs
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\EA1. MO6.UF1.csproj.CoreCompileInputs.cache
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\EA1. MO6.UF1.csproj.CopyComplete
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\EA1. MO6.UF1.dll
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\refint\EA1. MO6.UF1.dll
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\EA1. MO6.UF1.pdb
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\EA1. MO6.UF1.genruntimeconfig.cache
+D:\C#\EA1. MO6.UF1\EA1. MO6.UF1\obj\Debug\net8.0\ref\EA1. MO6.UF1.dll
